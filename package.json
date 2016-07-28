@@ -1,5 +1,5 @@
 {
-  "name": "hubot-weather",
+  "name": "hubot-weather-mexico",
   "version": "1.0.0",
   "description": "ask hubot about the weather",
   "main": "index.coffee",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sagasu/hubot-weather.git"
+    "url": "git+https://github.com/sagasu/hubot-weather-mexico.git"
   },
   "keywords": [
     "hubot",

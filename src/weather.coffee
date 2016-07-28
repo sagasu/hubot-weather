@@ -4,7 +4,7 @@
 # Commands:
 #    hubot what's the weather
 #    hubot how's the weather
-#
+#z
 # Author:
 #   sagasu
 
