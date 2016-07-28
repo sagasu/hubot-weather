@@ -1,5 +1,5 @@
 # hubot-weather
-:rain_cloud: ask hubot about the weather
+:umbrella: ask hubot about the weather
 
 See [`src/weather.coffee`](src/weather.coffee) for full documentation.
 
