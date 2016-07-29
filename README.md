@@ -1,5 +1,7 @@
 # hubot-weather-mexico
-:umbrella: ask hubot about the weather
+:umbrella: ask hubot about the weather :)
+
+This is more a joke project taking advantage of internet meme of Yanet Garcia who is presenting a weather in Mexico.
 
 See [`src/weather.coffee`](src/weather.coffee) for full documentation.
 
@@ -27,7 +29,7 @@ Run `npm install hubot-weather-mexico`
 
 ```
 user1>> hubot what's the weather
-hubot>> Minima, Maxima, Noche
+hubot>> Minima, Maxima, Noche <picture>
 user1>> hubot how's the weather
-hubot>> Run to the hills, apocalypse is coming.
+hubot>> It's hot like hell <picture>
 ```
